@@ -17,4 +17,30 @@ Arduino Code (bus_tracker.ino):
 
 2. Sends location and bus number to the backend server via SIM808.
 
-Tech Stack : Frontend, Backend, Database.
+# Tech Stack
+Frontend (HTML, CSS, JS) Features:
+
+1. Simple form to input route or bus number.
+
+2. Displays buses nearby with Google Maps.
+
+Backend (Node.js and Express) Features:
+
+1. API to receive location updates from buses.
+
+2. API to fetch nearby buses based on user input.
+
+3. Stores bus data in MySQL.
+
+Database (MySQL)
+# Deployment
+
+1. Using Heroku or Render for backend deployment.
+2. Using GitHub Pages for the frontend.
+3. Setting the Arduino device to communicate with the deployed backend server.
+
+# Testing
+
+1. Simulate location data from Arduino.
+
+2. Testing the frontend by entering coordinates near your campus.
