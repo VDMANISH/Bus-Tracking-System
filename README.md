@@ -1,6 +1,9 @@
 # Bus Tracking System
 Simple and Modular plan for creating College Bus Tracking System project for our college. [Under-Development]
-# Sample Outline : (Development Steps)
+
+<img src = https://github.com/user-attachments/assets/2150d1aa-a0b5-4d71-81d3-57fd2a524df6 width="300" height="200">
+
+# Development Steps
 Hardware Components : Arduino Uno, SIM808 module, GPS module
 
 Connections:
